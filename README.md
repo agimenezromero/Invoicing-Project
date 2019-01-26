@@ -16,6 +16,8 @@ Language: Catalan (it will be translated into english soon).
 -PDF invoices
 
 ## Customization
--Graphical interface: customize the .ui files stored in *data* folder with Qt designer
+**-Graphical interface:** customize the .ui files stored in *data* folder with Qt designer
 
--PDF invoices: for the moment it can be customized only by code
+**-PDF invoices:** for the moment it can be customized only by code
+
+**-Google account:** Create your own Google project and Google Drive Api to store the data in your own account. You'll need to change the .json existing file in *data* folder for your .json of your credentials.
