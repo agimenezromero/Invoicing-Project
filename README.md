@@ -20,4 +20,4 @@ Language: Catalan (it will be translated into english soon).
 
 **-PDF invoices:** for the moment it can be customized only by code
 
-**-Google account:** Create your own Google project and Google Drive Api to store the data in your own account. You'll need to change the .json existing file in *data* folder for your .json of your credentials.
+**-Google account:** Create your own Google project and Google Drive Api to store the data in your own account. You'll need to change the .json existing file in *data* folder for your own .json file of your credentials.
